@@ -7,6 +7,7 @@ import (
 
 const ()
 
+// https://play.golang.wiki/p/zzXLNaa4KU-
 func Owoifxy(unowo string) string {
 	kaomoji := []string{
 		"(*^ω^)",
